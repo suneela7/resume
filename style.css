@@ -52,13 +52,13 @@ p {
 	padding: 0 40px;
 }
 
-#headshot {
+#pic {
 	width: 12.5%;
 	float: left;
 	margin-right: 30px;
 }
 
-#headshot img {
+#pic img {
 	width: 65%;
 	height: auto;
 	-webkit-border-radius: 50px;
